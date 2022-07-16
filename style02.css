@@ -1,0 +1,677 @@
+/* Learn 01 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+} */
+
+
+
+
+
+
+/* Learn 02 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: dotted;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 03 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: dashed;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 04 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: solid;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 05 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: double;
+} */
+
+
+
+
+
+
+
+
+/* Learn 06 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: groove;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 07 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: outset;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 08 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: inset;
+} */
+
+
+
+
+
+
+
+
+/* Learn 09 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: solid;
+    outline-width: 10px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 10 */
+/* div{
+    background-color: burlywood;
+    border: 5px solid blue;
+    padding:4%;
+    font-size: 40px;
+
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: red;
+} */
+
+
+
+
+
+
+
+
+
+
+/*  Back to HTML*/
+/* Learn 11 */
+/* p {
+    font-size: 25px;
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 12 */
+/* p {
+    font-size: 25px;
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 13 */
+/* p {
+    font-size: 25px;
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+
+    text-align: right;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 14 */
+/* p {
+    font-size: 25px;
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+
+    text-align: left;
+} */
+
+
+
+
+
+
+
+
+/* Learn 15 */
+/* p {
+    font-size: 25px;
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+
+    text-align: justify;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/*Back to HTML*/
+/* Learn 16 */
+/* span {
+    font-size: 25px;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 17 */
+/* span {
+    font-size: 25px;
+    text-decoration: overline;
+} */
+
+
+
+
+
+
+
+
+/* Learn 18 */
+/* span {
+    font-size: 25px;
+    text-decoration: line-through;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 19 */
+/* span {
+    font-size: 25px;
+    text-decoration: underline;
+} */
+
+
+
+
+
+
+
+
+/* Learn 20 */
+/* span {
+    font-size: 25px;
+    text-decoration: overline underline;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 21 */
+/* span {
+    font-size: 25px;
+
+    text-transform: uppercase;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 22 */
+/* span {
+    font-size: 25px;
+
+    text-transform: lowercase;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 23 */
+/* span {
+    font-size: 25px;
+
+    text-transform: capitalize;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 24 */
+/* span {
+    font-size: 25px;
+
+    letter-spacing: 5px;
+} */
+
+
+
+
+
+
+
+
+/* Learn 25 */
+/* span {
+    font-size: 25px;
+
+    letter-spacing: -6px;
+} */
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 26 */
+/* span {
+    font-size: 25px;
+
+    line-height: 0.2;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 27 */
+/* span {
+    font-size: 25px;
+
+    line-height: 5;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 28 */
+/* span {
+    font-size: 25px;
+
+    word-spacing: -2px;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 29 */
+/* span {
+    font-size: 25px;
+
+    text-shadow: 2px 2px 5px red;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 30 */
+/* span {
+    font-family: "Lucida Console", "Courier New", monospace;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 30 */
+/* span {
+    font-style: oblique;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 31 */
+/* span {
+    font-style: italic;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 32 */
+/* span {
+    font-style: normal;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 33 */
+/* span {
+    font-size: 20px;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 34 */
+/* pixels/16=em */
+/* span {
+    font-size: 0.875em; 
+} */
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 35 */
+/* a:link {
+    color: red;
+} */
+
+
+
+
+
+
+
+
+/* Learn 36 */
+/* a:visited {
+    color: green;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 37 */
+/* a:hover {
+    color: hotpink;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 38 */
+/* a:active {
+    color: blue;
+} */
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 39 */
+/* ul.a {
+    list-style-type: circle;
+} */
+
+
+
+
+
+/* Learn 39 */
+/* ul.a {
+    list-style-type: square;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 40 */
+/* ol.a {
+  list-style-type: upper-roman;
+} */
+
+
+
+
+
+/* Learn 41 */
+/* ol.a {
+  list-style-type: lower-alpha;
+} */

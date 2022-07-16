@@ -113,7 +113,7 @@
     font-size:40px;
     font-weight: bold;
 
-    padding: 50px;
+    padding: 15%;
 } */
 
 
@@ -494,7 +494,7 @@
 
 
 /* Learn 23 */
-/* div{
+div{
     background-color: blue;
     color: white;
     font-size:40px;
@@ -504,8 +504,9 @@
     border-radius: 20px;
     border: 10px dashed red;
     height: 700px;
-    width: 15%;
+    width: 35%;
     margin: 2%;
 
     float: right;
-} */
+    text-align: center;
+}
