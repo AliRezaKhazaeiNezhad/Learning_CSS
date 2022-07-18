@@ -1,0 +1,603 @@
+/* Learn 01 */
+/* table, th, td{
+    border: 1px solid black;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 02 */
+/* table, th, td{
+    border: 1px solid black;
+
+    width: 100%;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 03 */
+/* table, th, td{
+    border: 1px solid black;
+    width: 100%;
+
+    border-collapse: collapse;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 04 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 05 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 06 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+    
+    vertical-align: bottom;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Learn 07 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+    
+    vertical-align: middle;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Learn 08 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+    vertical-align: middle;
+
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+/* Learn 09 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+th{
+    font-weight: bold;
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+/* Learn 10 */
+/* table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+th{
+    font-weight: bold;
+    text-align: center;
+}
+
+tr:hover{
+    background-color: aquamarine;
+} */
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 11 */
+/* li {
+    display: inline;
+} */
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 12 */
+
+
+
+
+
+
+
+/* Learn 13 */
+/* span {
+    display: block;
+} */
+
+
+
+
+
+
+
+/* Learn 14 */
+/* span {
+    display: none;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 15 */
+/* div {
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Positions */
+/* Static positioned elements are not affected by the top, bottom, left, and right properties. */
+/* Learn 16 */
+/* div {
+    width: 100%;
+    border: 3px solid #73AD21;
+
+    position: static;
+    top: 200px;
+} */
+
+
+
+
+
+
+
+
+/* Positions */
+/* An element with position: relative;
+is positioned relative to its normal position. Setting the top,
+right,
+bottom,
+and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element. */
+/* Learn 17 */
+/* div {
+    width: 100%;
+    border: 3px solid #73AD21;
+
+    position: relative;
+    top: 200px;
+} */
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Positions */
+/* Learn 18 */
+/* div.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+
+div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Positions */
+/* Learn 19 */
+/* div.sticky {
+    position: sticky;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+}
+
+body {
+    height: 5000px;
+} */
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Positions */
+/* An element with position: fixed; is positioned relative to the 
+viewport,which means it always stays in  the same place even if 
+the page is scrolled. The top, right,bottom,and left properties 
+are used to position the element. */
+/* Learn 20 */
+/* div.fixed {
+    position: fixed;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    border: 3px solid #73AD21;
+    background-color: red;
+}
+
+body {
+    height: 5000px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 21 */
+/* .container {
+    position: relative;
+}
+
+.black-box {
+    position: relative;
+    z-index: 1;
+    border: 2px solid black;
+    height: 100px;
+    margin: 30px;
+}
+
+.gray-box {
+    position: absolute;
+    z-index: 3;
+
+    background: lightgray;
+    height: 60px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+}
+
+.green-box {
+    position: absolute;
+    z-index: 2;
+
+    background: lightgreen;
+    width: 35%;
+    left: 270px;
+    top: -15px;
+    height: 100px;
+} */
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 22 */
+/* div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: visible;
+} */
+
+
+
+
+
+
+
+
+/* Learn 23 */
+/* div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: hidden;
+} */
+
+
+
+
+
+
+
+
+/* Learn 24 */
+/* div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: scroll;
+} */
+
+
+
+
+
+
+
+
+/* Learn 25 */
+/* div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: auto;
+} */
+
+
+
+
+
+
+
+
+/* Learn 26 */
+/* div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow-x: hidden;
+    overflow-y: scroll;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 27 */
+/* span.a {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+} */
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 28  */
+/* div p {
+    background-color: yellow;
+} */
+
+
+
+
+
+/* Back to HTML */
+/* Learn 29  */
+/* div>p {
+    background-color: yellow;
+} */
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 30  */
+/* div+p {
+    background-color: yellow;
+} */
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 31  */
+div~p {
+    background-color: yellow;
+}
