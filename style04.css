@@ -1,0 +1,130 @@
+/* Back to HTML */
+/* Learn 01  */
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;
+} */
+
+
+
+
+
+
+
+
+
+/* Learn 02  */
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    width: 300px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;
+
+    text-decoration: none;
+    color: black;
+    padding: 20px 5px 20px 20px;
+    margin-bottom: 2px;
+} */
+
+
+
+
+
+/* Learn 03  */
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    width: 300px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;
+    text-decoration: none;
+    color: black;
+    padding: 20px 5px 20px 20px;
+    margin-bottom: 2px;
+}
+
+li{
+    border-left: 7px solid green;
+} */
+
+
+
+
+
+
+
+/* Learn 04  */
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    width: 300px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;
+    text-decoration: none;
+    color: black;
+    padding: 20px 5px 20px 20px;
+    margin-bottom: 2px;
+}
+
+li{
+    border-left: 7px solid green;
+}
+
+
+li :hover{
+    background-color: greenyellow;
+}
+ */
+
+
+
+
+
+
+/* Horizontal menu */
+/* Learn 05  */
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+
+    float: left;
+}
+
+li a {
+
+    display: block;
+    padding: 8px;
+    color: white;
+
+    text-decoration: none;
+} */

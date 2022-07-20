@@ -216,10 +216,16 @@ tr:hover{
 
 
 
+
+
 /* Back to HTML */
-/* Learn 11 */
-/* li {
-    display: inline;
+/* Learn 11  */
+/* .redcolor{
+    color: red;
+}
+
+#bluecolor{
+    color: blue;
 } */
 
 
@@ -231,7 +237,9 @@ tr:hover{
 
 /* Back to HTML */
 /* Learn 12 */
-
+/* li {
+    display: inline;
+} */
 
 
 
@@ -598,6 +606,43 @@ span.c {
 
 /* Back to HTML */
 /* Learn 31  */
-div~p {
+/* div~p {
     background-color: yellow;
-}
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 32  */
+/* img{
+    opacity: 0.3;
+} */
+
+
+
+
+
+
+/* Back to HTML */
+/* Learn 33  */
+/* .redcolor{
+    color: red;
+} */
+
+
+
+
+
+
+
